@@ -1,0 +1,11 @@
+git add . # adicionar as mudanças a ala de comitamento
+git commit -m "comentario" # faz um commit com o comentario
+git status # mostra o status
+git log # mostra o log
+git branch # lista as branchs
+git checkout -b nome-da-branch # criar um nova
+git checkout nome-da-branch # troca pra branch
+
+
+
+
