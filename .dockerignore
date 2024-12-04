@@ -1,0 +1,19 @@
+*/venv
+# Ignorar arquivos de configuração sensíveis
+.env
+.env.*
+
+# Ignorar o banco SQLite (se estiver sendo usado apenas para desenvolvimento)
+db.sqlite3
+
+# Ignorar arquivos de versionamento
+.git
+
+# Ignorar arquivos de cache
+__pycache__/
+*.pyc
+
+# Ignorar arquivos de desenvolvimento locais
+*.log
+*.bak
+*.swp
